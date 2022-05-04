@@ -7,14 +7,12 @@
 
 
 ## Discription
----
 
 - Mini-Team-Project (2022.04.25~2022.05.02)
 - Member : 임동민(팀장), 유병관, 강민영
 - Project Dataset : [KMWP (Korean Math Word Problems)](https://github.com/tunib-ai/KMWP)
 
 ## Goal
----
 
 2021년도 인공지능 그랜드 챌린지 5차 대회였던 자연어 수학 문제를 파이썬 코드로 풀이를 작성하여 문제를 푸는 테스크를 진행하기 위한 준비 단계
 
@@ -26,5 +24,5 @@
 5. 팀별 깃헙 페이지 생성 및 프로젝트 개요에 대한 설명을 **Readme로 작성**
 
 ## Archive
----
+
 - [TUNlP (Notion-teampage)](https://dongmin5820.notion.site/TUNiB-TUNlP-4da4c2314cbf4559bd7209527953df64)
